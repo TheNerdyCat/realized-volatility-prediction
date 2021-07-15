@@ -129,7 +129,12 @@ dmypy.json
 .pyre/
 
 # Input data
-input/optiver-realized-volatility-prediction
+input/optiver-realized-volatility-prediction/book_test.parquet
+input/optiver-realized-volatility-prediction/book_train.parquet
+input/optiver-realized-volatility-prediction/trade_test.parquet
+input/optiver-realized-volatility-prediction/trade_train.parquet
+input/optiver-realized-volatility-prediction/test.csv
+input/optiver-realized-volatility-prediction/train.csv
 
 # Output files
 output/model_params/*
